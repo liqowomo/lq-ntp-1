@@ -11,7 +11,12 @@
 
 # What ? 
 
-> Main learning repo for NextJS and related m
+1. Main learning repo for NextJS and related 
+2. Note this repo is fork of - [`https://github.com/sniffowomo/sn-DN13B`](https://github.com/sniffowomo/sn-DN13B) 
+   1. Stopped working on this since typescript language server keeps crashing, so now going to test it out here and see if that is the case, if not then most if not all the nextjs related dev will be done here 
+   2. Note other work in other repo , not have same problem , so can be issue with the version of codepscae which is running. 
+   3. Pain in the azs to try to isolate the issue
+   4. Note first install of `cargo` stuff takes more than half hour, then you cna only start the actual work
 
 ## Main Reference 
 
